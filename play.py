@@ -67,7 +67,7 @@ class GameBoard:
 
         # check for mate
         if (self.board.is_checkmate()):
-            self.hasWon = 1
+            self.hasWon = 0
             self.handle_end()
             return
 
