@@ -13,10 +13,10 @@ To actually run the application copy your engine exectutable's directory and run
 
 ## Some references
 
-![normal reference](normal.png)
+![normal reference](references/normal.png)
 
-![winning reference](win.png)
+![winning reference](references/win.png)
 
-![pawn promotion reference](promoW.png)
+![pawn promotion reference](references/promoW.png)
 
-![pawn promotion reference 2](promoB.png)
+![pawn promotion reference 2](references/promoB.png)
