@@ -15,6 +15,8 @@ To actually run the application copy your engine exectutable's directory and run
 
 ![normal reference](normal.png)
 
-![pawn promotion reference](promotion.png)
-
 ![winning reference](win.png)
+
+![pawn promotion reference](promoW.png)
+
+![pawn promotion reference 2](promoB.png)
